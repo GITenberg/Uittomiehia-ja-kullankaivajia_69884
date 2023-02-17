@@ -1,0 +1,43 @@
+_repo: Uittomiehia-ja-kullankaivajia_69884
+_version: 0.0.1
+alternative_title: Blazed trail stories, and Stories of the wild life. Finnish
+contributor:
+  translator:
+    agent_name: Kesäniemi, Paavo
+    alias: Kesaniemi, Paavo
+    birthdate: 1879
+    deathdate: 1940
+    gutenberg_agent_id: '55475'
+    url: http://www.gutenberg.org/2009/agents/55475
+    wikipedia: https://fi.wikipedia.org/wiki/Paavo_Kes%C3%A4niemi
+creator:
+  author:
+    agent_name: White, Stewart Edward
+    birthdate: 1873
+    deathdate: 1946
+    gutenberg_agent_id: '247'
+    url: http://www.gutenberg.org/2009/agents/247
+    wikipedia: https://en.wikipedia.org/wiki/Stewart_Edward_White
+description: ''
+gutenberg_issued: '2023-01-27'
+identifiers:
+  gutenberg: '69884'
+language: fi
+pgterms:marc905: 20230105095332white
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: 'Finland: K. J. Gummerus Oy,1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Tukinuittaja -- Esimies -- Mittaaja -- Uittopäällikkö -- Viides tie
+  -- Taivaan tuulen tuuditeltavana -- Tyttö joka pettyi -- Billyn keltanokka -- Kaksi
+  panosta -- Kilpajuoksu -- Pelastava armo -- Kullankaivaja -- Tyttö punaisissa.
+title: Uittomiehiä ja kullankaivajia
+url: http://www.gutenberg.org/ebooks/69884
