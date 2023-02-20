@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '55475'
     url: http://www.gutenberg.org/2009/agents/55475
     wikipedia: https://fi.wikipedia.org/wiki/Paavo_Kes%C3%A4niemi
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: White, Stewart Edward
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/247
     wikipedia: https://en.wikipedia.org/wiki/Stewart_Edward_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69884#Uittomiehia-ja-kullankaivajia
 gutenberg_issued: '2023-01-27'
 identifiers:
   gutenberg: '69884'
